@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharath070999
+- 👋 Hi, I’m @bharath-chandran-s
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Angular development 
